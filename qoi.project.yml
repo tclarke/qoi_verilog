@@ -1,0 +1,46 @@
+toplevel: ""
+name: qoi
+files: 
+  - name: "circular_cam/circular_cam.sv"
+    file_type: systemVerilogSource
+    is_include_file: false
+    include_path: ""
+    logical_name: circular_cam
+  - name: "circular_cam/Makefile"
+    file_type: ""
+    is_include_file: false
+    include_path: ""
+    logical_name: circular_cam
+  - name: "circular_cam/test_circular_cam.py"
+    file_type: python
+    is_include_file: false
+    include_path: ""
+    logical_name: circular_cam
+  - name: "circular_cam/circular_cam.vcd"
+    file_type: VCD
+    is_include_file: false
+    include_path: ""
+    logical_name: circular_cam
+  - name: "circular_cam/results.xml"
+    file_type: XML
+    is_include_file: false
+    include_path: ""
+    logical_name: circular_cam
+  - name: "full_pixel_encoder/full_pixel_encoder.sv"
+    file_type: systemVerilogSource
+    is_include_file: false
+    include_path: ""
+    logical_name: full_pixel_encoder
+  - name: "full_pixel_encoder/Makefile"
+    file_type: ""
+    is_include_file: false
+    include_path: ""
+    logical_name: full_pixel_encoder
+  - name: "full_pixel_encoder/test_full_pixel_encoder.py"
+    file_type: python
+    is_include_file: false
+    include_path: ""
+    logical_name: full_pixel_encoder
+tool_options: 
+  cocotb: 
+    installation_path: ""
