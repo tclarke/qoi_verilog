@@ -1,0 +1,5 @@
+{
+	"cortex-debug.armToolchainPath": "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin",
+	"cortex-debug.openocdPath": "C:\\DEV\\OPENOCD-20210301-0.10.0\\BIN\\OPENOCD.EXE",
+	"editor.fontFamily": "'Fira Code'"
+}
