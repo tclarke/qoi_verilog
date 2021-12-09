@@ -41,6 +41,26 @@ files:
     is_include_file: false
     include_path: ""
     logical_name: full_pixel_encoder
+  - name: "circular_cam/qoi_op_index_encoder.sv"
+    file_type: systemVerilogSource
+    is_include_file: false
+    include_path: ""
+    logical_name: circular_cam
+  - name: Makefile
+    file_type: ""
+    is_include_file: false
+    include_path: ""
+    logical_name: ""
+  - name: "qoi_encoder.sv"
+    file_type: systemVerilogSource
+    is_include_file: false
+    include_path: ""
+    logical_name: ""
+  - name: "test_qoi_encoder.py"
+    file_type: python
+    is_include_file: false
+    include_path: ""
+    logical_name: ""
 tool_options: 
   cocotb: 
     installation_path: ""

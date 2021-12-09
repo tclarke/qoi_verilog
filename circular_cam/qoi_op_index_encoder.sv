@@ -23,7 +23,7 @@ module QoiOpIndexEncoder
    assign cam_output = ostream[5:0];
 
 
-   CircularCam cam (
+   CircularCAM cam (
       .rst_n (rst_n),
       .clk (clk),
       .inp (pixel),
